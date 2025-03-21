@@ -402,6 +402,9 @@ Exige que los números de teléfono cumplan con el siguiente formato:
 * **Código de país:** Después del "+", debe haber un código de país de 1 a 3 dígitos.
 * **Número local:** El resto del número de teléfono puede contener cualquier cantidad de dígitos.
 
+![imagen](https://media.discordapp.net/attachments/1156413197931249765/1352757352775942164/imagen.png?ex=67df2cf5&is=67dddb75&hm=766dd84d6e77532c0adf68d7ca75d051c482c10da31453b67d9e2f9de5451575&=&format=webp&quality=lossless)
+
+
 **Nombre de la regla de validación:** `Validacion_telefono`
 
 
@@ -410,6 +413,8 @@ Exige que los números de teléfono cumplan con el siguiente formato:
 * Reduce el riesgo de errores al marcar números de teléfono.
 * Facilita la integración con sistemas de telefonía y otras aplicaciones.
 
+
+![imagen](https://media.discordapp.net/attachments/1156413197931249765/1352757454735413328/imagen.png?ex=67df2d0e&is=67dddb8e&hm=40447f6e4ce6ae1b748f1af5b77264105f21a366e92550499a32d6317844fdbc&=&format=webp&quality=lossless)
 
 
 ## Implementación de Reglas de Coincidencia y Duplicados para Leads, Contactos y Cuentas
