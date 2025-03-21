@@ -589,4 +589,26 @@ Se ha implementado el envío automático de factura al cerrar una oportunidad co
 ## Imagen de ejemplo
 ![ejemplo](https://media.discordapp.net/attachments/1156413197931249765/1352702094611583036/IMG-20250319-WA0101.jpg?ex=67def97f&is=67dda7ff&hm=fedbfd7030374dffadcdf731b0b7c6698c7351810989a297d65769ac33443ef2&=&format=webp&width=393&height=896)
 
+
+## Proceso de Verificación
+
+1.  **Descarga de Salesforce Mobile:**
+    * Se descargó la aplicación Salesforce Mobile desde la tienda de aplicaciones correspondiente (App Store o Google Play).
+
+2.  **Inicio de Sesión:**
+    * Se inició sesión en la aplicación Salesforce Mobile utilizando las credenciales del usuario Gerente de Ventas.
+
+3.  **Verificación de Aplicaciones Disponibles:**
+    * Se verificó que la única aplicación disponible para el usuario Gerente de Ventas fuera la aplicación de ventas.
+    * Se comprobó que no se mostraran otras aplicaciones, como las de soporte, producción o compras.
+
+4.  **Navegación en la Aplicación de Ventas:**
+    * Se navegó por las diferentes secciones de la aplicación de ventas para verificar que todas las funcionalidades estuvieran accesibles para el Gerente de Ventas.
+    * Se comprobó el acceso a oportunidades, leads, contactos, cuentas y otras funcionalidades relevantes.
+
+## Imagen de Ejemplo
+
+![Salesforce Mobile - Aplicación de Ventas](https://media.discordapp.net/attachments/1156413197931249765/1352723971136688209/Screenshot_20250321-142139.jpg?ex=67df0ddf&is=67ddbc5f&hm=9b3cc1f3b1e83ce25e8c0c2496e1701b4318e1c6696433e5c4af191ba591f24b&=&format=webp&width=393&height=895)
+
+
 <br/>
