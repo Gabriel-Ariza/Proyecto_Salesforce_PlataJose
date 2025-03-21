@@ -28,7 +28,6 @@ Este documento resume los cambios realizados para la implementación de la empre
 * Se ha actualizado la información básica de la organización en Salesforce. Los datos clave incluyen:
     * Nombre de la organización: ConstruFurgo S.A.S.
     * Dirección principal: Av. Boyacá #12-33, Bogotá, Colombia.
-    * Contacto principal: Gabriel Ariza.
     * Configuración regional: Español (Colombia).
     * Zona horaria: (GMT-05:00) Colombia Standard Time (America/Bogota).
 * Estos cambios aseguran que la información de la empresa en Salesforce refleje la realidad de ConstruFurgo S.A.S.
