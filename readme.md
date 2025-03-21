@@ -47,6 +47,7 @@ Este documento resume los cambios realizados para la implementación de la empre
     * Se designo a Juan perez Lopez como representante legal de la empresa.
 * Estos registros permiten gestionar la información de la empresa y su representante legal de manera efectiva.
 
+![Imagen](https://media.discordapp.net/attachments/1156413197931249765/1352756114885840926/imagen.png?ex=67df2bce&is=67ddda4e&hm=bdb287afbb00e1f4622ab1f21fa0301e9d35d4b6d68da9e55bc849a335d02097&=&format=webp&quality=lossless)
 
 ## 2. Configuración de Divisas
 
@@ -70,6 +71,8 @@ Este documento resume los cambios realizados para la implementación de la empre
 * Las oportunidades en Salesforce ahora pueden mostrar montos en USD y COP.
 * Las conversiones entre divisas se realizan automáticamente, utilizando la TRM actualizada.
 * Los informes y paneles pueden mostrar datos financieros en ambas divisas.
+
+![Imagen](https://media.discordapp.net/attachments/1156413197931249765/1352756292242112592/imagen.png?ex=67df2bf9&is=67ddda79&hm=29fd85b6ea9c41ff21892a1b9621b2eee4966c03682a092ba010e1a8c4588d27&=&format=webp&quality=lossless&width=550&height=254)
 
 ## Resultado
 
