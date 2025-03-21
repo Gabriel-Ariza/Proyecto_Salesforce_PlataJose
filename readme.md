@@ -511,6 +511,30 @@ Este documento describe la generación de un reporte de auditoría de inicios de
 
 <br/>
 
+## Políticas de Contraseñas (Password Policies)
+
+* Se implementaron políticas de contraseñas para garantizar la seguridad de las credenciales de los usuarios.
+* Las políticas incluyen los siguientes requisitos:
+    * Longitud mínima de la contraseña.
+    * Complejidad de la contraseña (combinación de letras, números y caracteres especiales).
+    * Expiración de la contraseña y necesidad de cambio periódico.
+    * Historial de contraseñas para evitar la reutilización.
+* Estas políticas se aplican a todos los usuarios de la organización.
+
+## Seguimiento del Historial de Datos (History Tracking)
+
+* Se activó el seguimiento del historial de datos en los objetos "Oportunidades" y "Cuentas".
+* El seguimiento del historial permite registrar los cambios realizados en campos críticos de estos objetos.
+* Esto proporciona una pista de auditoría para el seguimiento de cambios importantes y la identificación de posibles problemas.
+* Los campos críticos que se rastrean incluyen:
+    * Monto de la oportunidad.
+    * Etapa de la oportunidad.
+    * Nombre de la cuenta.
+    * Dirección de la cuenta.
+* El historial de cambios se almacena y se puede consultar para fines de auditoría y análisis.
+
+<br/>
+
 # Flujos y procesos automatizados
 
 ##  Asignación Automática de Leads: Notificación al Gerente de Ventas
