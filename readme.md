@@ -110,6 +110,8 @@ Este apartado describe la configuración de roles personalizada para ConstruFurg
 
 <br/>
 
+![Imagen](https://media.discordapp.net/attachments/1156413197931249765/1352756939934666872/imagen.png?ex=67df2c93&is=67dddb13&hm=2a77bb92b4b574bfb1bdd9708fa6d1abf461ac8377c290a3b82b69d4814786be&=&format=webp&quality=lossless)
+
 ## Creación de Usuarios y Perfiles
 
 Se han creado los siguientes perfiles y usuarios en la organización de Salesforce:
